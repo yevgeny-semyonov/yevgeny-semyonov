@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, I'm Yevgeny Semyonov! 👋
 
-<!--
-**yevgeny-semyonov/yevgeny-semyonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Based in Moscow, Russia
+- 💼 Junior Developer, working remotely
+- 👨‍💻 Technologies: Python, Go, Ruby and JavaScript
+- 🚀 Projects: Focused on web development.
 
-Here are some ideas to get you started:
+## What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Studying and honing skills in Back-End.
+- 👯 Open to collaborations on interesting projects.
+
+## Fun Facts
+
+- 🎮 Enjoy real-time strategy games.
+
+Feel free to explore my projects!
